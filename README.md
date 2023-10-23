@@ -296,6 +296,9 @@ gitopiad tx slashing unjail --from Cüzdanİsmi --chain-id $GCHAIN_ID
 Okuyabilirsin: [Link](https://blog.gitopia.com/post/2022/11/the-janus-testnet-upgrade/index.html)
 
 
+buna bak
+
+
 
 
 
